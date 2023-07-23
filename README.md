@@ -1,19 +1,10 @@
-Copyright 2022 London App Brewery LTD (www.appbrewery.com)
+# OpenD - A Marketplace for Miniting, Buying and Selling NFTs
 
-The code in this tutorial project is licended under the Apache License, Version 2.0 (the "License");
-you may not use this project except in compliance with the License.
-You may obtain a copy of the License at
+# Overview
+OpenD is an innovative and dynamic project inspired by the OpenSea, aiming to create a cutting-edge marketplace for minting, buying, and selling Non-Fungible Tokens (NFTs). NFTs have revolutionized the way digital assets are owned and exchanged, offering unparalleled uniqueness and scarcity to digital creations. This platform, seeks to provide a seamless and user-friendly experience for creators, collectors, and enthusiasts to interact with NFTs.
 
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-Here is the TL;DR version of the above licence:
-https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)
+### Note*
+Please note that OpenD is currently in active development, and as such, new features and improvements are being continuously added.
 
 # To Install and Run the Project
 
