@@ -1,21 +1,19 @@
-# OpenD - A Marketplace for Miniting, Buying and Selling NFTs
+Copyright 2022 London App Brewery LTD (www.appbrewery.com)
 
-## Overview
-OpenD is an innovative and dynamic project inspired by the OpenSea, aiming to create a cutting-edge marketplace for minting, buying, and selling Non-Fungible Tokens (NFTs). NFTs have revolutionized the way digital assets are owned and exchanged, offering unparalleled uniqueness and scarcity to digital creations. This platform, seeks to provide a seamless and user-friendly experience for creators, collectors, and enthusiasts to interact with NFTs.
+The code in this tutorial project is licended under the Apache License, Version 2.0 (the "License");
+you may not use this project except in compliance with the License.
+You may obtain a copy of the License at
 
-## Key Features (During Development):
+    http://www.apache.org/licenses/LICENSE-2.0
 
-### Minting NFTs:
-OpenD allows artists, content creators, and developers to effortlessly mint their unique digital assets as NFTs. The minting process is designed to be intuitive, guiding creators through the necessary steps to tokenize their creations onto the blockchain.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
-### NFT Marketplace: 
-A vibrant and decentralized marketplace awaits users, where NFTs from various creators will be showcased and available for purchase. 
-
-### Secure Transactions: 
-This platform emphasizes the utmost security during transactions. ICP-Blockchain technology ensures that ownership of NFTs is indisputably recorded, protecting both buyers and sellers from potential fraudulent activities.
-
-### Note*
-Please note that OpenD is currently in active development, and as such, new features and improvements are being continuously added.
+Here is the TL;DR version of the above licence:
+https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)
 
 # To Install and Run the Project
 
